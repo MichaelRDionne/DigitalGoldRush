@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DigitalGoldRush
+- 👋 Hi, I’m @beefy_unicorn
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning blockchain analysis and creation at University of Nicosia in their Master's program.
 - 💞️ I’m looking to collaborate on blockchain applications in healthcare and gaming.
