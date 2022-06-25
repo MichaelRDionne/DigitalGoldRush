@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @beefy_unicorn
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning blockchain analysis and creation at University of Nicosia in their Master's program.
+- I am enrolled in the Fintech Bootcamp at Berkeley learning financial technology and smart contracts. 
 - 💞️ I’m looking to collaborate on blockchain applications in healthcare and gaming.
 - 📫 How to reach me michael@digitalgoldrush.co
 
