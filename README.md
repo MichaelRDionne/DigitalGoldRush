@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
----
-
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hey%Everybody!&fontSize=90)
 
 <p align="center">
   <img src="https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/ethereum-eth%20(1).gif" alt="animated" />
