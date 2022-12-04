@@ -35,6 +35,7 @@
 
 </div>
 ---
+![gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif)
 
 ---
 
