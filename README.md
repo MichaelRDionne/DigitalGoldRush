@@ -1,11 +1,14 @@
 
 [![Linkedin](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L59aKIC2MFyfUfrz3n/giphy.gif" width="600" height="300"/>
+</div>
+
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/8tVNccNJ1ZpV09G2BZ/giphy.gif" width="600" height="300"/>
