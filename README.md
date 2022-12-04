@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/ethereum-eth%20(1).gif" alt="animated" />
+</p>
 
 ---
 
 ### :bowtie:About Me
 
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning blockchain analysis and creation at University of Nicosia in their Master's program.
+- 🌱 I’m currently learning blockchain analysis and Architecture at University of Nicosia.
 - 💞️ I’m looking to collaborate on blockchain applications in healthcare and gaming.
 
 ---
