@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=faceff&customColorList=0,2,2,5,30&height=135&section=header&text=Welcome%20Fren!&fontSize=65&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=faceff&customColorList=0,2,2,5,30&height=135&section=header&text=Michael%20Dionne!&fontSize=65&animation=blinking)
 
 <p align="center">
   <img src="https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/ethereum-eth%20(1).gif" alt="animated" />
@@ -16,6 +16,7 @@
 - 💞️ I’m looking to collaborate on blockchain applications in healthcare and gaming.
 - ✨ I have over 25 years of Nursing experience and would love to colloborate on medical apps in the Blockchain
 - 🤖 Interested in implementing AI & neural networks to develop better preventative care models
+- [![Python](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools
