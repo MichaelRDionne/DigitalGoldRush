@@ -9,11 +9,13 @@
 
 ### :bowtie:About Me
 
-- 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning blockchain analysis and Architecture at University of Nicosia.
+- 👀 I’m interested in developing functional NFTs
+- 👨‍💻 I'm passionate about machine learning & AI
+- 🧑‍🎓 I’m currently learning blockchain analysis and Architecture at University of Nicosia.
+- 🧑‍🎓 I have recently finished a Fintech bootcamp.
 - 💞️ I’m looking to collaborate on blockchain applications in healthcare and gaming.
-
-
+- ✨ I have over 25 years of Nursing experience and would love to colloborate on medical apps in the Blockchain
+- 🤖 Interested in implementing AI & neural networks to develop better preventative care models
 
 ---
 ### :hammer_and_wrench: Languages and Tools
