@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-![https://tenor.com/view/ethereum-eth-gif-21354215](https://tenor.com/view/ethereum-eth-gif-21354215)
+![gif](https://tenor.com/bBLmZ.gif)
+
 ---
 
 </a>
