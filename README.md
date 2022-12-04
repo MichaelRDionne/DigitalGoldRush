@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=faceff&customColorList=0,2,2,5,30&height=185&section=header&text=Welcome!&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=faceff&customColorList=0,2,2,5,30&height=135&section=header&text=Welcome%20Fren!&fontSize=65&animation=blinking)
 
 <p align="center">
   <img src="https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/ethereum-eth%20(1).gif" alt="animated" />
@@ -54,4 +54,4 @@
 ![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif)
 
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=d3ffce&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d3ffce&customColorList=0,2,2,5,30&height=150)
