@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Michael Dionne
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="100"/>
+</div>
+
+
+👋 Hi, I’m Michael Dionne
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning blockchain analysis and creation at University of Nicosia in their Master's program.
 - I am enrolled in the Fintech Bootcamp at Berkeley learning financial technology and smart contracts. 
