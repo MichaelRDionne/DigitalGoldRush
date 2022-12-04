@@ -13,8 +13,9 @@
 - 🌱 I’m currently learning blockchain analysis and Architecture at University of Nicosia.
 - 💞️ I’m looking to collaborate on blockchain applications in healthcare and gaming.
 
----
 
+
+---
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
@@ -40,11 +41,11 @@
 
 ### :fire: My Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DigitalGoldRush&theme=dark&background=000000)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=digitalgoldrush&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitalgoldrush&layout=compact)](https://github.com/digitalgoldrush/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalgoldrush&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalgoldrush&show_icons=true&theme=transparent)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalgoldrush&layout=compact&theme=cobalt&hide_border=true" />
 
 ---
 ![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/output/github-contribution-grid-snake.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/output/github-contribution-grid-snake.svg)
