@@ -2,8 +2,13 @@
   <img src="https://media.giphy.com/media/ZqtXbgxEWHV8oF8L9J/giphy.gif" width="100"/>
 </div>
 
+[![Linkedin](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
 
-👋 Hi, I’m Michael Dionne
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 - 👀 I’m interested in blockchain technology
 - 🌱 I’m currently learning blockchain analysis and creation at University of Nicosia in their Master's program.
 - I am enrolled in the Fintech Bootcamp at Berkeley learning financial technology and smart contracts. 
