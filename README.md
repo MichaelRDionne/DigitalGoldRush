@@ -33,8 +33,9 @@
 
 
 ---
+![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/output/github-contribution-grid-snake.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/output/github-contribution-grid-snake.gif)
 
-
+---
 ![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif)
 
 ---
