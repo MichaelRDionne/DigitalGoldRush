@@ -30,8 +30,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
 </div>
+
+
 ---
-![gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif)
+
+
+![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif)
 
 ---
 
