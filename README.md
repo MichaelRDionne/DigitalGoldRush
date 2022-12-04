@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+---
+
+
+
+<p align="center">
   <img src="https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/ethereum-eth%20(1).gif" alt="animated" />
 </p>
 
@@ -35,12 +43,13 @@
 
 ---
 
-### :fire: My Stats
+### :fire: My Github Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DigitalGoldRush&theme=dark&background=000000)](https://git.io/streak-stats)
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digitalgoldrush&layout=compact)](https://github.com/digitalgoldrush/github-readme-stats)
+
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalgoldrush&show_icons=true&theme=transparent)
 
 ---
 ![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/output/github-contribution-grid-snake.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/output/github-contribution-grid-snake.svg)
