@@ -14,11 +14,12 @@
 - 🧑‍🎓 I’m currently learning blockchain analysis and Architecture at University of Nicosia.
 - 🧑‍🎓 I have recently finished a Fintech bootcamp.
 - 💞️ I’m looking to collaborate on blockchain applications in healthcare and gaming.
-- ✨ I have over 25 years of Nursing experience and would love to colloborate on medical apps in the Blockchain
+- ✨ I have over 25 years of Nursing experience and would love to collaborate on medical apps in the Blockchain
 - 🤖 Interested in implementing AI & neural networks to develop better preventative care models
 - [![Python](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
 
 ---
+
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
@@ -46,7 +47,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=digitalgoldrush&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalgoldrush&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalgoldrush&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalgoldrush&layout=compact&theme=cobalt&hide_border=true" />
 
