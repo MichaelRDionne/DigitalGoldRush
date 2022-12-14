@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=faceff&customColorList=0,2,2,5,30&height=135&section=header&text=Michael%20Dionne!&fontSize=65&animation=blinking)
 
 <p align="center">
