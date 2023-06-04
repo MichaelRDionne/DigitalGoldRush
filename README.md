@@ -51,7 +51,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRDionne&layout=compact&theme=cobalt&hide_border=true" />
 
 ---
-![Snake animation](https://github.com/MichaelRDionne/MichaelRDionne/blob/output/github-contribution-grid-snake.svg)
+![https://github.com/MichaelRDionne/MichaelRDionne/blob/output/github-contribution-grid-snake.gif](https://github.com/MichaelRDionne/MichaelRDionne/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif)
