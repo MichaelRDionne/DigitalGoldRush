@@ -54,9 +54,11 @@
 
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/MichaelRDionne/MichaelRDionne/blob/output/github-contribution-grid-snake.svg)
----
-![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichaelRDionne/MichaelRDionne/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichaelRDionne/MichaelRDionne/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MichaelRDionne/MichaelRDionne/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d3ffce&customColorList=0,2,2,5,30&height=150)
