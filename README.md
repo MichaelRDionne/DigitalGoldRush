@@ -51,13 +51,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelRDionne&layout=compact&theme=cobalt&hide_border=true" />
 
 ---
-- uses: Platane/snk@v2
-  with:
-    github_user_name: MichaelRDionne # Replace with your GitHub username
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MichaelRDionne/MichaelRDionne/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MichaelRDionne/MichaelRDionne/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MichaelRDionne/MichaelRDionne/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 ![https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif](https://github.com/DigitalGoldRush/DigitalGoldRush/blob/main/readme%20media/2021%20github%20skyline.gif)
